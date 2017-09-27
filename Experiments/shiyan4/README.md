@@ -66,8 +66,10 @@ JMP NEXTCHAR;
 
 
 -------------------------------
+
 ### 6.源代码
-```cpp
+
+```asm
 data segment
 letter db 0
 digit  db 0
@@ -117,22 +119,17 @@ start:  mov ax,data
         sub ax,0
   		cmp al,0dh
        jnz nextchar
-
 final:
-
-mov dx,offset dmsg
-call showstring
-mov dl,digit
-call showtotal
-mov dx,offset lmsg
-call showstring
-mov dl,letter
-call showtotal
-
+      mov dx,offset dmsg
+      call showstring
+      mov dl,digit
+      call showtotal
+      mov dx,offset lmsg
+      call showstring
+      mov dl,letter
+      call showtotal
   		mov ax,4c00h
         int 21h
-
 code ends
 end start
-
 ```
