@@ -1,4 +1,7 @@
 # 汇编实验配套课后习题V1.0
+[![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://github.com/Twopothead/Assembly_exp/tree/master/Experiments)
+[![license](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Twopothead/Assembly_exp/tree/master/Experiments)
+
 ---------------------
 ## 目录
 - 实验二
@@ -13,11 +16,10 @@
 - 实验六
     - 电话号码管理系统
 ---------------------
-[![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://github.com/Twopothead/Assembly_exp/tree/master/Experiments)
-[![license](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Twopothead/Assembly_exp/tree/master/Experiments)
+
 ###  熊迎军  张俊艺 严一杏 邱日
-- __南京农业大学信息学院__
-  -  __2017年9月__
+#### 南京农业大学信息学院  
+#### 2017年9月
 
 
 
