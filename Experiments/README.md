@@ -1,5 +1,23 @@
 # 汇编实验配套课后习题V1.0
 ---------------------
+## 目录
+- 实验二
+    - 1到100求和（串操作）
+- 实验三
+    - 算术求值
+      - 两位数x,y,z,求x-|y|+|z|值
+- 实验四
+    - 统计字符串中字母数字个数
+- 实验五
+    - 11人成绩求最值并排序
+- 实验六
+    - 电话号码管理系统
+---------------------
+[![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://github.com/Twopothead/Assembly_exp/tree/master/Experiments)
+[![license](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Twopothead/Assembly_exp/tree/master/Experiments)
+###  熊迎军  张俊艺 严一杏 邱日
+- __南京农业大学信息学院__
+  -  __2017年9月__
 
 
 
